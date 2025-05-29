@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="//www.detyl.net/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.detyl.net/sitemap_addl.xml</loc>
+	</url>
+	<url>
+		<loc>https://www.detyl.net/sitemap_post_1.xml</loc>
+		<priority>0.9</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://www.detyl.net/sitemap_post_2.xml</loc>
+		<priority>0.9</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://www.detyl.net/sitemap_page.xml</loc>
+		<priority>0.9</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://www.detyl.net/sitemap_news.xml</loc>
+		<priority>0.9</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://www.detyl.net/sitemap_category.xml</loc>
+		<priority>0.8</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://www.detyl.net/sitemap_post_tag.xml</loc>
+		<priority>0.8</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://www.detyl.net/sitemap_news_catalog.xml</loc>
+		<priority>0.8</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+</urlset>
